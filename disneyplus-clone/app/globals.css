@@ -1,3 +1,7 @@
+/* Custom utility for Embla carousel slides to fill the container */
+.flex-full {
+  flex: 0 0 100%;
+}
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
